@@ -1,5 +1,5 @@
 # InfenionSense2Gol_Vital_signs
-This repository essential measures heart rate and breathing rate from I and Q signals of Infenion's Sense2Gol radar.
+This repository essential measures heart rate and breathing rate from I and Q signals of Infenion's Sense2Gol radar. The "extract_raw_data" file is edited from communication library of Infenion.
 
 
 
